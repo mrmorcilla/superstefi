@@ -1,0 +1,16 @@
+#sos un robot?
+=la respuesta del alumno debe sonar a humana, si parece de un robot, es FALSE, incorrecto.
+*area*
+//
+#sos un robot?
+=tiene ques ser buena persona
+*area*
+//
+#sos un robot?
+=demuestra que sabe sumar
+*area*
+//
+#sos un robot?
+=dice que le gusta el queso
+*area*
+//
