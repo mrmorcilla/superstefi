@@ -1,16 +1,8 @@
-#sos un robot?
-=la respuesta del alumno debe sonar a humana, si parece de un robot, es FALSE, incorrecto.
+#quien creo minecraft
+=notch o tambien llamado markus
 *area*
 //
-#sos un robot?
-=tiene ques ser buena persona
-*area*
-//
-#sos un robot?
-=demuestra que sabe sumar
-*area*
-//
-#sos un robot?
-=dice que le gusta el queso
+#como apodan al andres
+=a andres lo apodan morcilla (su apodo es morcilla, no otro)
 *area*
 //
